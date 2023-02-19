@@ -8,6 +8,8 @@ git clone https://github.com/r3ans0mwar3/secretsecurity.git
 
 cd secretsecurity
 
+pip install -r requirements.txt
+
 python secretsecurity.py
 
 
