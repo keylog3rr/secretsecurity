@@ -32,19 +32,16 @@ print("""
       ) || (      | |      | (\ (   | (         | |           ) || (      | |      | |   | || (\ (      | |      | |      ) (   
 /\____) || (____/\| (____/\| ) \ \__| (____/\   | |     /\____) || (____/\| (____/\| (___) || ) \ \_____) (___   | |      | |   
 \_______)(_______/(_______/|/   \__/(_______/   )_(     \_______)(_______/(_______/(_______)|/   \__/\_______/   )_(      \_/   
-                                                                                                                                
+                                                                                                                                                                                                                                                        
 
-Hecho por ZQYS. 
+Members
 
-Para mis amigos de secret security les dejo este script hecho por mi,
-es normalito pero aca se los dejo espero les sirva de algo,
-y lleven su  grupo a la cima.
-
-
-
- 
-
-
+ZQYS
+FLOXW3Z
+LIZZY
+LAIDDARK
+GXXBITO
+Cristhian Jdm
 
  """)
     
