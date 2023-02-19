@@ -10,7 +10,7 @@ cd secretsecurity
 
 pip install -r requirements.txt
 
-python secretsecurity.py
+python3 secretsecurity.py
 
 
 ##
