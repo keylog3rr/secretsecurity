@@ -8,7 +8,7 @@ git clone https://github.com/r3ans0mwar3/secretsecurity.git
 
 cd secretsecurity
 
-python secretsecuriy.py
+python secretsecurity.py
 
 
 ##
