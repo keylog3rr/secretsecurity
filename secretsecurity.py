@@ -9,7 +9,7 @@ import time
 import colorama
 
 
-print("<<<<INSTALANDO LOS PAQUETES NECESARIO PARA EJECUTAR EL SCRIPT>>>>     SCRIPT HECHO POR ZQYS")
+print("<<<<INSTALANDO LOS PAQUETES NECESARIO PARA EJECUTAR EL SCRIPT>>>>    BY ZQYS")
 time.sleep(1)
 print("...")
 os.system("pip install phonenumbers")
@@ -42,7 +42,7 @@ LIZZY
 LAIDDARK
 GXXBITO
 Cristhian Jdm
-
+Lxdearr
  """)
     
 
